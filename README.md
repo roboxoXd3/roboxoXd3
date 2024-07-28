@@ -1,6 +1,6 @@
 # Hello, I'm Rishav 👋
 
-![Profile Banner](https://your-image-url.com/banner.png)
+![Profile Banner]([https://your-image-url.com/banner.png](https://github.com/roboxoXd3/roboxoXd3/issues/1#issue-2434003305))
 
 ## About Me
 - 🔭 I'm currently working on a productivity application called FocusFlow
