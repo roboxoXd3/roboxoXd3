@@ -27,12 +27,6 @@
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=roboxoXD3&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## 📈 Activity Graph
-![](https://activity-graph.herokuapp.com/graph?username=roboxoXD3&custom_title=Rishav's%20Contribution%20Graph&theme=react-dark)
-
-## 🐍 Contribution Snake
-![snake gif](https://github.com/roboxoXD3/roboxoXD3/blob/output/github-contribution-grid-snake.gif)
-
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rishav-shankar-351863159) 
 
