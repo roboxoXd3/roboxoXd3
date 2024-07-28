@@ -28,7 +28,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=roboxoXD3&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rishav-shankar) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/rishav-shankar](https://www.linkedin.com/in/rishav-shankar-351863159/)) 
 
 ## 💻 Tech Stack
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
